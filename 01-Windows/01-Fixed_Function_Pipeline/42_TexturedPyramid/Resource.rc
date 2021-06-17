@@ -1,0 +1,3 @@
+#include "TexturedPyramide.h"
+
+IDBITMAP_STONE BITMAP Stone.bmp

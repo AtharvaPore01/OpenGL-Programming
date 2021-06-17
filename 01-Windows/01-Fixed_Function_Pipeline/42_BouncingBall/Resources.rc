@@ -1,0 +1,4 @@
+#include "MyResources.h"
+
+MYICON ICON "ap.ico"
+//MYAUDIO WAVE Jump.wav
