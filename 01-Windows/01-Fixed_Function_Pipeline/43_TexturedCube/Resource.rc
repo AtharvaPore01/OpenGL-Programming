@@ -1,0 +1,3 @@
+#include "TexturedCube.h"
+
+IDBITMAP_KUNDALI BITMAP Vijay_Kundali.bmp
