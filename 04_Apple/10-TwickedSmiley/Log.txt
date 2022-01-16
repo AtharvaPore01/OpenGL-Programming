@@ -1,0 +1,16 @@
+Log File Created Successfully.
+pixelFormat is not nil
+OpenGL Version : 4.1 INTEL-12.10.12
+GLSL Version : 4.10
+before CVDisplayLinkStart
+key = 50
+key = 51
+key = 52
+key = 49
+key = 50
+key = 51
+key = 52
+key = 49
+key = 50
+key = 51
+key = 52

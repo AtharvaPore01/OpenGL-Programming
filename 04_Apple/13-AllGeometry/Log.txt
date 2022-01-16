@@ -1,0 +1,4755 @@
+Log File Created Successfully.
+pixelFormat is not nil
+OpenGL Version : 4.1 INTEL-12.10.12
+GLSL Version : 4.10
+before CVDisplayLinkStart
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+
+
+Top = 2.000000
+Bottom = 2.000000
+Left = 1.180000
+Right = 1.180000
+
+Area_of_Rectangle = 3.180000
+
+Radius = 1.161077
+

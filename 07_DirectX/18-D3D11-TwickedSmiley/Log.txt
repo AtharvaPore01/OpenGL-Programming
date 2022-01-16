@@ -1,0 +1,22 @@
+Log File is Created Successfully
+D3D11CreateDeviceAndSwapChain() is Succeeded.
+The Choosen Driver Is OfHardware Type.
+The Supported Highest Feature Level Is11.0
+D3DCompile() is Succeeded For Vertex Shader.
+gpID3D11Device::CreateVertexShader() is Succeeded.
+D3DCompile() is Succeeded For Pixel Shader.
+gpID3D11Device::CreateVertexShader() is Succeeded.
+gpID3D11Device::CreateInputLayout() is Succeeded.
+gpID3D11Device::CreateBuffer() is Succeeded.
+gpID3D11Device::CreateBuffer() is Succeeded.
+gpID3D11Device::CreateBuffer() is Succeeded for constant buffer.
+ DirectX::CreateWICTextureFromFile() is Succeeded.
+LoadD3DTexture() is Succeeded for pyramid.
+gpID3D11Device->CreateSamplerState() is Succeeded for pyramid.
+gpID3D11Device::CreateRenderTargetView is Succeeded.
+d3dResize() is Succeeded.
+d3dInitialize() is Succeeded.
+d3dUninitialise() is Succeeded.
+Log File Is Successfully Closed.
+d3dUninitialise() is Succeeded.
+Log File Is Successfully Closed.

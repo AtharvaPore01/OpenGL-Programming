@@ -1,0 +1,175 @@
+Log File Is Created
+Initialization Is Successfully Done
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+First Node's Vertex Pushed Successfully
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	1
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	1
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	4
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	5
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	6
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	6
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	0
+1.	End Vertex	:	7
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	7
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	0
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	4
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	7
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	7
+1.	End Vertex	:	0
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	7
+1.	End Vertex	:	5
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	1
+1.	End Vertex	:	0
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	1
+1.	End Vertex	:	2
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	2
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	2
+1.	End Vertex	:	1
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	2
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	2
+1.	End Vertex	:	4
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	0
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	2
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	2
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	5
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	5
+1.	End Vertex	:	3
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	4
+1.	End Vertex	:	6
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	6
+1.	End Vertex	:	0
+************Exiting from heuristic_cost_estimate function************
+
+************Entering In heuristic_cost_estimate function************
+1.	Start Vertex	:	6
+1.	End Vertex	:	4
+************Exiting from heuristic_cost_estimate function************
+Top Deleted SUccessfully.
+*****SUCCESS*******
+[Beginning]<-> [0]<-> [4]<-> [5]<-> [3]<->[End]
+[Beginning]<-> [1]<-> [4]<-> [5]<-> [6]<-> [7]<-> [0]<-> [3]<-> [4]<-> [7]<-> [0]<-> [5]<-> [0]<-> [2]<-> [1]<-> [3]<-> [4]<-> [0]<-> [2]<-> [3]<-> [5]<-> [6]<-> [0]<-> [4]<->[End]
+[Beginning]<-> [0]<-> [0]<-> [0]<-> [0]<-> [0]<-> [5]<-> [5]<-> [5]<-> [5]<-> [7]<-> [7]<-> [1]<-> [1]<-> [2]<-> [2]<-> [2]<-> [4]<-> [4]<-> [4]<-> [4]<-> [4]<-> [6]<-> [6]<->[End]
+Log File Is Closed Successfully
