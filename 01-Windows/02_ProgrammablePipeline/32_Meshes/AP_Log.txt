@@ -1,0 +1,27 @@
+Log File Created Successfully.
+
+In WinMain
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+
+ In oglInitialise. 
+
+ In OGLResize 
+*******Initialization Is Successfully Done*******
+2.1 Going To ToggleFullScreen()
+
+ 
+ In ToggleFullScreen() 
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+
+In OGLUninitialise
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+Log File Is Closed Successfully

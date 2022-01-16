@@ -1,0 +1,206 @@
+Log File Created Successfully.
+
+In WinMain
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+
+2. In WndProc
+Device Count = 1
+
+ In OGLResize 
+*******Initialization Is Successfully Done*******
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+2.1 Going To ToggleFullScreen()
+
+ 
+ In ToggleFullScreen() 
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+In OGLUninitialise
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+
+2. In WndProc
+2.2 Going To OGLResize()
+
+
+ In OGLResize 
+Log File Is Closed Successfully
